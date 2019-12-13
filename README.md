@@ -1,5 +1,5 @@
 # Femap---List-Nodes-on-Elements
-List elements with their nodes to the message window.
+List selected elements and their associated nodes in a fixed-width column format for use in Excel
 
 See also: [How to use Femap Scripts](https://github.com/aaronjasso/How_to_use_Femap_Scripts) and [The List of my Femap Scripts](https://github.com/aaronjasso/My-Femap-Scripts)
 
